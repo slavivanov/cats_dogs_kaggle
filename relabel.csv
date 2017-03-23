@@ -1,0 +1,35 @@
+filename,comment,rescale
+cat.4688,both cartoon,0.5
+cat.11222,both,0.5
+cat.1450,both,0.5
+cat.2159,both,0.5
+cat.3822,both,0.5
+cat.4104,both,0.5
+cat.5355,both,0.5
+cat.7194,both,0.5
+cat.7920,both,0.5
+cat.9250,both,0.5
+cat.9444,both,0.5
+cat.9882,both,0.5
+dog.11538,both,0.5
+dog.11724,both,0.5
+dog.8507,both,0.5
+cat.5351,only noise,0.5
+cat.5418,only noise,0.5
+cat.9171,only noise,0.5
+dog.10747,only noise,0.5
+dog.2614,only noise,0.5
+dog.4367,only noise,0.5
+dog.8736,only noise,0.5
+cat.7377,only people,0.5
+dog.12376,only people,0.5
+dog.1773,only people,0.5
+cat.10712,only text,0.5
+cat.11184,only text,0.5
+cat.7564,only text,0.5
+cat.8456,only text,0.5
+dog.10237,only text,0.5
+dog.1043,only text,0.5
+dog.1194,only text,0.5
+dog.5604,only text,0.5
+dog.9517,only text,0.5
